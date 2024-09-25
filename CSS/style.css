@@ -1,0 +1,28 @@
+body {
+  background-color: #87dbd9;
+}
+.text-center {
+  text-align: center;
+}
+.main-color {
+  color: white;
+}
+
+.padding-left {
+  padding-left: 10px;
+}
+.width-1 {
+  width: 300px;
+}
+.height-1 {
+  height: 35px;
+}
+.width-2 {
+  width: 140px;
+}
+.height-1 {
+  height: 35px;
+}
+.margin-bottom {
+  margin-bottom: 20px;
+}
